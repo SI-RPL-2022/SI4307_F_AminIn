@@ -1,2 +1,2 @@
-i havent commit anything
+i havent commit anythin
 bruuhhuhuh
