@@ -1,4 +1,6 @@
 ## RPL CAPSTONE PROJECT
+### Amin.in
+Muslim wear e commerce
 
 ### for contributors: 
 ### Installation
