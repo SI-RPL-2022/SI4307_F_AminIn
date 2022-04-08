@@ -7,7 +7,7 @@ Muslim wear e commerce
 1. Clone this project
     ```bash
     git clone https://github.com/SI-RPL-2022/SI4307_F_AminIn/
-    cd amin.in
+    cd AminIn
     ```
 2. Install dependencies
     ```bash
