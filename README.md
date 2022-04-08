@@ -6,7 +6,7 @@ Muslim wear e commerce
 ### Installation
 1. Clone this project
     ```bash
-    git clone https://github.com/fractalxv/amin.in
+    git clone https://github.com/SI-RPL-2022/SI4307_F_AminIn/
     cd amin.in
     ```
 2. Install dependencies
