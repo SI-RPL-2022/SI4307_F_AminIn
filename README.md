@@ -2,7 +2,7 @@
 ### Amin.in
 Muslim wear e commerce
 
-### for contributors: 
+## for contributors: 
 ### Installation
 1. Clone this project
     ```bash
