@@ -17,7 +17,7 @@ Muslim wear e commerce
     ```bash
     yarn install && yarn dev
 
-    #OR
+    OR
 
     npm install && npm run dev
     ```
