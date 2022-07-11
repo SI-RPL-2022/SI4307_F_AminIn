@@ -127,7 +127,7 @@
                                 Ged Artha Graha Basement 1 <br>
                                 Senayan JAK, Dki Jakarta <br>
                                 <strong>Phone:</strong> +6285735906222<br>
-                                <strong>Website:</strong> jola.nazyli.com<br>
+                                <strong>Website:</strong> amin-in.com<br>
                             </p>
                         </div>
 
@@ -153,8 +153,8 @@
 
                         <div class="col-lg-3 col-md-6 footer-links">
                             <h4>Our Social Networks</h4>
-                            <strong>PT JOLA MEMBANGUN INDONESIA</strong>
-                            <p>Depok</p>
+                            <strong>PT AMININ INDONESIA</strong>
+                            <p>Bandung</p>
                             <div class="social-links mt-3">
                                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
